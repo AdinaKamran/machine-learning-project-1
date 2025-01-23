@@ -1,0 +1,1 @@
+This project aims to develop a comprehensive hospital management system utilizing a database management system (DBMS). This system will efficiently manage patient records, staff information, inventory, ambulance dispatch services, and online patient services, offering a seamless and integrated healthcare experience.
